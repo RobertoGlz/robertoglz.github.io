@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Roberto González / Economist"
+title                    : "Roberto González Téllez"
 title_separator          : "-"
 name                     : &name "Roberto González"
 description              : &description "MSc. Student - Interested in development econ and applied micro."
@@ -87,7 +87,7 @@ author:
   employer         :
   pubmed           : 
   googlescholar    : #"http://yourfullgooglescholarurl.com"
-  email            :
+  email            : "rob98e@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "linkedin.com/in/roberto-gonzález-econ"
   orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
@@ -182,10 +182,10 @@ collections:
     output: true
     permalink: /:collection/:path/
   portfolio:
-    output: true
+    output: false
     permalink: /:collection/:path/
   talks:
-    output: true
+    output: false
     permalink: /:collection/:path/
 
 
