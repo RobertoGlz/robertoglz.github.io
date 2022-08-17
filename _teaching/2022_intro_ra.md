@@ -15,5 +15,5 @@ Main topics
 * dplyr
 * ggplot2
 * Overall data wrangling
-* Econometric packages such as feols.
+* Econometric packages such as fixest
 * RMarkdown
