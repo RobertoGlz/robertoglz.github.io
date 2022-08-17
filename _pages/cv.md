@@ -24,8 +24,13 @@ Work experience
 * August 2020 - August 2022: Research Assistant
   * Center for Economic Research at ITAM
   * Duties included: Data base creation, data visualization and econometric analyses.
-  * Supervisor: Ph.D. Andrei Gomberg and Ph.D. Joyce Sadka
-  
+  * Supervisors: Ph.D. Andrei Gomberg and Ph.D. Joyce Sadka
+
+* June 2021 - August 2021: Summer Intern
+  * Banorte
+  * Duties included: Meta-analysis of behavioural-bias-focused RCT's conducted by the bank.
+  * Supervisors: B.A. Sofía Terrazas and B.A. Vivian Garciacano
+
 Software
 ======
 * R
