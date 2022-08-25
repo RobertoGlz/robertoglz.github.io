@@ -11,8 +11,8 @@ redirect_from:
 
 Education
 ======
-* B.A. in Economics, Instituto Tecnológico Autónomo de México (ITAM), 2022
 * M.Sc. in Economic Theory, Instituto Tecnológico Autónomo de México (ITAM), 2024 (expected)
+* B.A. in Economics, Instituto Tecnológico Autónomo de México (ITAM), 2022
 
 Work experience
 ======
