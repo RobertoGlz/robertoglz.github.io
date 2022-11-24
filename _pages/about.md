@@ -12,7 +12,7 @@ I am a M.Sc. in Economic Theory student at ITAM (2022-2024) in Mexico City. My m
 
 My research agenda comprises (but is not limited to) development topics such as health, education and nutrition. I am also interested in poverty traps, political econ and labour markets. I mainly focus on empirical work but enjoy working on theory as well.
 
-Within my webpage you can find my [CV](https://robertoglz.github.io/personal//files/gonzalezroberto_cv.pdf), Working Papers and teaching materials.
+Within my webpage you can find my [CV](https://robertoglz.github.io/files/gonzalezroberto_cv.pdf), Working Papers and teaching materials.
 
 Please, feel free to contact me if there´s anything I may help you with.
 
