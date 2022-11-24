@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+You can find my full CV [here](https://RobertoGlz.github.io/personal//files/gonzalezroberto_cv.pdf)
+
 Education
 ======
 * M.Sc. in Economic Theory, Instituto Tecnológico Autónomo de México (ITAM), 2024 (expected)
