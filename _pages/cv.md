@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-You can find my full CV [here](https://RobertoGlz.github.io/personal//files/gonzalezroberto_cv.pdf)
+You can find my full CV [here](https://RobertoGlz.github.io/files/gonzalezroberto_cv.pdf)
 
 Education
 ======
@@ -44,12 +44,6 @@ Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
 Teaching
