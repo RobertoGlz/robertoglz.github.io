@@ -21,8 +21,8 @@ I currently hold a BA in Economics (ITAM, 2022).
 
 Research Interests
 ======
-I consider myself a Development Economist and I like to dig into Applied Microeconomics as well as Applied Microeonometrics stuff.
-My research agenda is perhaps not very well defined as of now but, in general, I am concerned with development topics such as poverty traps and the way institutions help or hinder development.
+I consider myself a Development Economist and I like to dig into Applied Microeconomics as well as Applied Microeconometrics stuff.
+My research agenda is perhaps not very well defined as of now but, in general, I am concerned with development topics such as poverty traps and the way institutions foster or hinder development.
 
 Within my webpage you can find my [CV](https://robertoglz.github.io/files/gonzalezroberto_cv.pdf), Working Papers and teaching materials.
 
