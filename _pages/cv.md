@@ -18,7 +18,12 @@ Education
 
 Work experience
 ======
-* August 2022 - today: Research Assistant
+* July 2023 - Today: Pre-doctoral Research Fellow
+  * Michigan State University and Center for Economic Research at ITAM
+  * Duties included: Data base creation, data visualization and econometric analyses.
+  * Supervisors: Ph.D. Enrique Seira and Ph.D. Alberto Simpser
+
+* August 2022 - July 2023: Research Assistant
   * Center for Economic Research at ITAM
   * Duties included: Data base creation, data visualization and econometric analyses.
   * Supervisor: Ph.D. Enrique Seira
