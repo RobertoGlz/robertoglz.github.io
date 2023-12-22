@@ -220,7 +220,7 @@ define(['pipAPI','pipScorer','underscore'], function(APIConstructor, Scorer, _) 
 					'</p>',
 					'<p align="left" style="margin-left:5px">',
 						'<br/>',
-						'Pon un dedo izquierdo en la zona verde de la <b>izquierda</b> paa items que pertenezcan a la categoría <font color="#336600">leftCategory</font>.<br/>',
+						'Pon un dedo izquierdo en la zona verde de la <b>izquierda</b> para items que pertenezcan a la categoría <font color="#336600">leftCategory</font>.<br/>',
 						'Pon un dedo derecho en la zona verde de la <b>derecha</b> para items que pertenezcan a la categoría <font color="#336600">rightCategory</font>.<br/>',
 						'Los items aparecerán uno a la vez.<br/>',
 						'<br/>',
