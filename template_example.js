@@ -5,16 +5,7 @@ define(['pipAPI', 'https://robertoglz.github.io/template_main.js'], function(API
 		category1 : {
 			name : 'MORENA', //Will appear in the data.
 			title : {
-				media: {
-        image: 'logo_morena.png', // Name of the category presented in the task.
-        css: {
-            width: '10px', // Set the width of the image
-            height: 'auto', // Automatically adjust height based on width
-            position: 'absolute', // Positioning absolute to place it in a corner
-            top: '10px', // Distance from the top
-            left: '10px' // Distance from the left
-        }
-    }, //Name of the category presented in the task.
+				media: {word : 'MORENA', //Name of the category presented in the task.
 				css : {color:'#31940F','font-size':'2em'}, //Style of the category title.
 				height : 4 //Used to position the "Or" in the combined block.
 			}, 
@@ -32,7 +23,7 @@ define(['pipAPI', 'https://robertoglz.github.io/template_main.js'], function(API
 		category2 :	{
 			name : 'PAN', //Will appear in the data.
 			title : {
-				media : {image : 'logo_pan.png'}, //Name of the category presented in the task.
+				media : {word : 'PAN'}, //Name of the category presented in the task.
 				css : {color:'#31940F','font-size':'2em'}, //Style of the category title.
 				height : 4 //Used to position the "Or" in the combined block.
 			}, 
