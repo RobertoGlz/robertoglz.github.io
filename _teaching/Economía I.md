@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/eco_i
 venue: "ITAM, Mexico City"
-date: Spring 2024
+date: 2024-1-15
 location: "Mexico City, Mexico"
 ---
 
