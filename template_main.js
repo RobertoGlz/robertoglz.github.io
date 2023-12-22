@@ -36,6 +36,7 @@ define(['pipAPI','pipScorer','underscore'], function(APIConstructor, Scorer, _) 
 				name : 'MORENA', //Will appear in the data and in the default feedback message.
 				title : {
 					media : {image : 'logo_morena.png'}, //Name of the category presented in the task.
+					media : {word : 'MORENA'},
 					css : {color:'#336600','font-size':'1.8em'}, //Style of the category title.
 					height : 4 //Used to position the "Or" in the combined block.
 				},
