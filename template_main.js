@@ -158,7 +158,7 @@ define(['pipAPI','pipScorer','underscore'], function(APIConstructor, Scorer, _) 
 			//Text and style for key instructions displayed about the category labels.
 			leftKeyText : 'Presiona "E" para', 
 			rightKeyText : 'Presiona "I" para', 
-			keysCss : {'font-size':'0.8em', 'font-family':'courier', color:'#000000'},
+			keysCss : {'font-size':'1.2em', 'font-family':'courier', color:'#000000'},
 			//Text and style for the separator between the top and bottom category labels.
 			orText : 'o', 
 			orCss : {'font-size':'1.8em', color:'#000000'},
@@ -183,7 +183,7 @@ define(['pipAPI','pipScorer','underscore'], function(APIConstructor, Scorer, _) 
 				'Pon un dedo izquierdo en la tecla <b>E</b> para items que pertenezan a la categoría <font color="#0000ff">leftAttribute.</font>' +
 				'<br/>Pon un dedo derecho en la tecla <b>I</b> para items que pertenezcan a la categoría <font color="#0000ff">rightAttribute</font>.<br/><br/>' +
 				'Si cometes un error aparecerá una <font color="#ff0000"><b>X</b></font> color rojo. ' +
-				'Preiona otra tecla para continuar.<br/>' +
+				'Presiona otra tecla para continuar.<br/>' +
 				'<u>Haz el ejercicio lo más rápido que puedas</u> siendo preciso al mismo tiempo.<br/><br/></p>'+
 				'<p align="center">Presiona la <b>barra de espacio</b> cuando estés listo para iniciar.</font></p></div>',
 			instAttributePracticeTouch: [
