@@ -3,9 +3,9 @@ define(['pipAPI', 'https://robertoglz.github.io/template_main.js'], function(API
 
 	return iatExtension({
 		category1 : {
-			name : 'Black people', //Will appear in the data.
+			name : 'MORENA', //Will appear in the data.
 			title : {
-				media : {word : 'Black people'}, //Name of the category presented in the task.
+				media : {word : 'MORENA'}, //Name of the category presented in the task.
 				css : {color:'#31940F','font-size':'2em'}, //Style of the category title.
 				height : 4 //Used to position the "Or" in the combined block.
 			}, 
@@ -21,9 +21,9 @@ define(['pipAPI', 'https://robertoglz.github.io/template_main.js'], function(API
 			stimulusCss : {color:'#31940F','font-size':'1.8em'}
 		},	
 		category2 :	{
-			name : 'White people', //Will appear in the data.
+			name : 'PAN', //Will appear in the data.
 			title : {
-				media : {word : 'White people'}, //Name of the category presented in the task.
+				media : {word : 'PAN'}, //Name of the category presented in the task.
 				css : {color:'#31940F','font-size':'2em'}, //Style of the category title.
 				height : 4 //Used to position the "Or" in the combined block.
 			}, 
@@ -39,7 +39,7 @@ define(['pipAPI', 'https://robertoglz.github.io/template_main.js'], function(API
 		},	
 
 		base_url : {//Where are your images at?
-			image : 'https://baranan.github.io/minno-tasks/images/'
+			image : 'https://robertoglz.github.io/IAT/images/'
 		} 
 	});
 });
