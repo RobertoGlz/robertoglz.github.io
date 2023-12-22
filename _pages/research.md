@@ -5,8 +5,15 @@ permalink: /research/
 author_profile: true
 ---
 
+**Publications**
+---
+
+**Working papers**
+---
+
 **Undergraduate Thesis**
-<span style="color:#CF8F17;"> [¿Los seguros sociales y atención médica mejoran la salud? Evidencia del Seguro Popular en México </span>](htpps://robertoglz.github.io/files/tesis_BA_RobertoGlz.pdf), _Adviser: Enrique Seira, 2023_
+---
+[¿Los seguros sociales y atención médica mejoran la salud? Evidencia del Seguro Popular en México](htpps://robertoglz.github.io/files/tesis_BA_RobertoGlz.pdf), _Adviser: Enrique Seira, 2023_
 
 <!---
 {% if author.googlescholar %}
