@@ -10,7 +10,7 @@ redirect_from:
 
 Things I enjoy
 ======
-Since I was very little I have always loved watching and playing football (soccer). I started enjoying baseball a while ago and overall I consider myself a sports fan.
+Since I was very young I have always loved watching and playing football (soccer). I started enjoying baseball a while ago and overall I consider myself a sports fan.
 I enjoy having a good _choripán_ or _bratwurst_ and _alfajores_ & _apfelstrudel_ are my absolute favourite desserts.
 
 Educational Background
@@ -22,8 +22,8 @@ I currently hold a BA in Economics (ITAM, 2022). You can look at my undergrad th
 
 Research Interests
 ======
-I consider myself a Development Economist and I like to dig into Applied Microeconomics as well as Causal Inference & Applied Microeconometrics methods.
-My research agenda is perhaps not very well defined as of now but, in general, I am concerned with development topics and econometric methods for applied research.
+I consider myself a Development Economist.
+My research agenda is perhaps not very well defined as of now but, in general, I am concerned with development topics and econometric methods for applied research and causal inference.
 
 Within my webpage you can find my [CV](https://robertoglz.github.io/files/gonzalezroberto_cv.pdf), [Research](https://robertoglz.github.io/research) and [Teaching materials](https://robertoglz.github.io/teaching).
 
