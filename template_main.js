@@ -33,79 +33,78 @@ define(['pipAPI','pipScorer','underscore'], function(APIConstructor, Scorer, _) 
 			},
 			//When scoring, we will consider the compatible condition the pairing condition that requires response with one key to [category1,attribute1] and the other key to [category2,attribute2]
 			category1 : {
-				name : 'MORENA', //Will appear in the data and in the default feedback message.
+				name : 'Democracia', //Will appear in the data and in the default feedback message.
 				title : {
-					media : {word : 'MORENA'}, //Name of the category presented in the task.
+					media : {word : 'Democracia'}, //Name of the category presented in the task.
 					css : {color:'#336600','font-size':'1.8em'}, //Style of the category title.
 					height : 4 //Used to position the "Or" in the combined block.
 				},
 				stimulusMedia : [ //Stimuli content as PIP's media objects
-    		    {word : 'AMLO'}, 
-    			{word : 'Transformación'}, 
-    			{word : 'Izquierda'}, 
-    			{word : 'Cambio'}, 
-    			{word : 'Progresismo'}, 
-    			{word : 'Renovación'}
+    		    	{word : 'Voto'}, 
+    			{word : 'Democracia de colaboradores'}, 
+    			{word : 'Democracia de socios'}, 
+    			{word : 'Deliberación'},
+			{word : 'Participación'}
 			],
 				//Stimulus css (style)
 				stimulusCss : {color:'#336600','font-size':'2.3em'}
 			},
 			category2 :	{
-				name : 'PAN', //Will appear in the data and in the default feedback message.
+				name : 'Autoritarismo', //Will appear in the data and in the default feedback message.
 				title : {
-					media : {word : 'PAN'}, //Name of the category presented in the task.
+					media : {word : 'Autoritarismo'}, //Name of the category presented in the task.
 					css : {color:'#336600','font-size':'1.8em'}, //Style of the category title.
 					height : 4 //Used to position the "Or" in the combined block.
 				},
 				stimulusMedia : [ //Stimuli content as PIP's media objects
-    		    {word : 'Conservadores'}, 
-    			{word : 'Derecha'}, 
-    			{word : 'Tradición'}, 
-    			{word : 'Empresario'}, 
-    			{word : 'Orden'}, 
-    			{word : 'Alternancia'}			
+    		    	{word : 'Autoritarismo'}, 
+    			{word : 'China'}, 
+    			{word : 'Fidel Castro'}, 
+    			{word : 'Anti-democrático'}, 
+    			{word : 'Corea del Norte'}			
 			],
 				//Stimulus css
 				stimulusCss : {color:'#336600','font-size':'2.3em'}
 			},
 			attribute1 :
 			{
-				name : 'Palabras malas',
+				name : 'Malo',
 				title : {
-					media : {word : 'Palabras malas'},
+					media : {word : 'Malo'},
 					css : {color:'#0000FF','font-size':'1.8em'},
 					height : 4 //Used to position the "Or" in the combined block.
 				},
 				stimulusMedia : [ //Stimuli content as PIP's media objects
-					{word: 'horrible'},
-					{word: 'fracaso'},
-					{word: 'agonía'},
-					{word: 'herida'},
-					{word: 'disgustante'},
-					{word: 'terrible'},
-					{word: 'asqueroso'},
-					{word: 'maligno'}
+					{word: 'Muerte'},
+					{word: 'Tristeza'},
+					{word: 'Dominación'},
+					{word: 'Malo'},
+					{word: 'Injusto'},
+					{word: 'Violencia'},
+					{word: 'Desigualdad'},
+					{word: 'Súbditos'}
 				],
 				//Stimulus css
 				stimulusCss : {color:'#0000FF','font-size':'2.3em'}
 			},
 			attribute2 :
 			{
-				name : 'Palabras buenas',
+				name : 'Bueno',
 				title : {
-					media : {word : 'Palabras buenas'},
+					media : {word : 'Bueno'},
 					css : {color:'#0000FF','font-size':'1.8em'},
 					height : 4 //Used to position the "Or" in the combined block.
 				},
 				stimulusMedia : [ //Stimuli content as PIP's media objects
-					{word: 'risa'},
-					{word: 'feliz'},
-					{word: 'glorioso'},
-					{word: 'alegría'},
-					{word: 'increíble'},
-					{word: 'paz'},
-					{word: 'placer'},
-					{word: 'amor'}
+					{word: 'Vida'},
+					{word: 'Felicidad'},
+					{word: 'Colaboración'},
+					{word: 'Excelente'},
+					{word: 'Justo'},
+					{word: 'Bien común'},
+					{word: 'Igualdad'},
+					{word: 'Participación'},
+					{word: 'Libertad'}
 				],
 				//Stimulus css
 				stimulusCss : {color:'#0000FF','font-size':'2.3em'}
