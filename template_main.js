@@ -319,16 +319,16 @@ define(['pipAPI','pipScorer','underscore'], function(APIConstructor, Scorer, _) 
 			//ATTENTION: We do not recommend showing participants their results. The IAT is a typical psychological measure so it is not very accurate. 
 			//In Project Implicit's website, you can see that we added much text to explain that there is still much unknown about the meaning of these results.
 			//We strongly recommend that you provide all these details in the debriefing of the experiment.
-			debriefingTextBottom : 'Este resultado no es una evaluación definitiva de tus actitudes. Se proporciona solamente con fines educativos.  Presiona la barra de espacio para continuar.', //Will be shown below the feedback text. 
-            debriefingTextBottomTouch : 'Este resultado no es una evaluación definitiva de tus actitudes. Se proporciona solamente con fines educativos. Toca el área verde para continuar.',
+			debriefingTextBottom : 'Este resultado no es una evaluación definitiva de tus actitudes. Presiona la barra de espacio para continuar.', //Will be shown below the feedback text. 
+            debriefingTextBottomTouch : 'Este resultado no es una evaluación definitiva de tus actitudes. Toca el área verde para continuar.',
 			//The default feedback messages for each cutoff -
 			//attribute1, and attribute2 will be replaced with the name of attribute1 and attribute2.
 			//categoryA is the name of the category that is found to be associated with attribute1,
 			//and categoryB is the name of the category that is found to be associated with attribute2.
-			fb_strong_Att1WithCatA_Att2WithCatB : 'Tus respuestas sugieren una preferencia automática fuerte por categoryB sobre categoryA.',
-			fb_moderate_Att1WithCatA_Att2WithCatB : 'Tus respuestas sugieren una preferencia automática moderada por categoryB sobre categoryA.',
-			fb_slight_Att1WithCatA_Att2WithCatB : 'Tus preferencias sugieren una ligera preferencia automática por categoryB sobre categoryA.',
-			fb_equal_CatAvsCatB : 'Tus respuestas no sugieren alguna preferencia automática entre categoryA y categoryB.',
+			fb_strong_Att1WithCatA_Att2WithCatB : 'Tus respuestas sugieren preferencia automática fuerte por categoryB sobre categoryA.',
+			fb_moderate_Att1WithCatA_Att2WithCatB : 'Tus respuestas sugieren preferencia automática moderada por categoryB sobre categoryA.',
+			fb_slight_Att1WithCatA_Att2WithCatB : 'Tus preferencias sugieren ligera preferencia automática por categoryB sobre categoryA.',
+			fb_equal_CatAvsCatB : 'Tus respuestas no sugieren preferencia automática entre categoryA y categoryB.',
 
 			//Error messages in the feedback
 			manyErrors: 'Se cometieron demasiados errores como para determinar un resultado.',
