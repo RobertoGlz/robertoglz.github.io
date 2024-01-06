@@ -1302,11 +1302,11 @@ define(['pipAPI','pipScorer','underscore'], function(APIConstructor, Scorer, _) 
                     media :{word: ('<%=current.feedback%>') },
                     location:{left:2,top:30,right:2}
                 },
-                {
-					inherit : 'Default',
-                    media : {word : (isTouch ? piCurrent.debriefingTextBottomTouch:piCurrent.debriefingTextBottom)},
-                    location:{left:2,top:45,right:2}
-                }
+                //{
+		//			inherit : 'Default',
+                //    media : {word : (isTouch ? piCurrent.debriefingTextBottomTouch:piCurrent.debriefingTextBottom)},
+                //    location:{left:2,top:45,right:2}
+                // }
              
                 
                 
