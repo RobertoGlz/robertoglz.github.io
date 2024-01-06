@@ -57,7 +57,7 @@ define(['pipAPI','pipScorer','underscore'], function(APIConstructor, Scorer, _) 
 					height : 4 //Used to position the "Or" in the combined block.
 				},
 				stimulusMedia : [ //Stimuli content as PIP's media objects
-    		    	{word : 'Autoritarismo'}, 
+    		    	{word : 'Dictador'}, 
     			{word : 'China'}, 
     			{word : 'Fidel Castro'}, 
     			{word : 'Anti-democrático'}, 
@@ -79,10 +79,10 @@ define(['pipAPI','pipScorer','underscore'], function(APIConstructor, Scorer, _) 
 					{word: 'Tristeza'},
 					{word: 'Dominación'},
 					{word: 'Malo'},
-					{word: 'Injusto'},
+					{word: 'Enojo'},
 					{word: 'Violencia'},
 					{word: 'Desigualdad'},
-					{word: 'Súbditos'}
+					{word: 'Esclavitud'}
 				],
 				//Stimulus css
 				stimulusCss : {color:'#0000FF','font-size':'2.3em'}
@@ -98,13 +98,11 @@ define(['pipAPI','pipScorer','underscore'], function(APIConstructor, Scorer, _) 
 				stimulusMedia : [ //Stimuli content as PIP's media objects
 					{word: 'Vida'},
 					{word: 'Felicidad'},
-					{word: 'Colaboración'},
 					{word: 'Excelente'},
-					{word: 'Justo'},
-					{word: 'Bien común'},
-					{word: 'Igualdad'},
-					{word: 'Participación'},
-					{word: 'Libertad'}
+					{word: 'Amistad'},
+					{word: 'Amor'},
+					{word: 'Alegría'},
+					{word: 'Salud'}
 				],
 				//Stimulus css
 				stimulusCss : {color:'#0000FF','font-size':'2.3em'}
