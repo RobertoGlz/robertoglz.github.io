@@ -10,11 +10,11 @@ define(['pipAPI', 'https://robertoglz.github.io/template_main_parties.js'], func
 				height : 4 //Used to position the "Or" in the combined block.
 			}, 
 			stimulusMedia : [ //Stimuli content as PIP's media objects
-    		    	{word : 'MORENA'}, 
+    		    	{word : 'Populismo'}, 
     			{word : 'López Obrador'}, 
     			{word : 'Cuarta Transformación'}, 
     			{word : 'Claudia Sheinbaum'}, 
-    			{word : 'AIFA'}
+    			{word : 'De izquierda'}
 			], 
 			//Stimulus css (style)
 			stimulusCss : {color:'#31940F','font-size':'1.8em'}
@@ -27,7 +27,7 @@ define(['pipAPI', 'https://robertoglz.github.io/template_main_parties.js'], func
 				height : 4 //Used to position the "Or" in the combined block.
 			}, 
 			stimulusMedia : [ //Stimuli content as PIP's media objects
-    		    	{word : 'PAN'}, 
+    		    	{word : 'Conservador'}, 
     			{word : 'Xochitl Gálvez'}, 
     			{word : 'Alianza Opositora'}, 
     			{word : 'Tradicional'}, 
