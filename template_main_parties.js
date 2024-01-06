@@ -33,35 +33,35 @@ define(['pipAPI','pipScorer','underscore'], function(APIConstructor, Scorer, _) 
 			},
 			//When scoring, we will consider the compatible condition the pairing condition that requires response with one key to [category1,attribute1] and the other key to [category2,attribute2]
 			category1 : {
-				name : 'Democracia', //Will appear in the data and in the default feedback message.
+				name : 'MORENA', //Will appear in the data and in the default feedback message.
 				title : {
-					media : {word : 'Democracia'}, //Name of the category presented in the task.
+					media : {word : 'MORENA'}, //Name of the category presented in the task.
 					css : {color:'#336600','font-size':'1.8em'}, //Style of the category title.
 					height : 4 //Used to position the "Or" in the combined block.
 				},
 				stimulusMedia : [ //Stimuli content as PIP's media objects
-    		    	{word : 'Voto'}, 
-    			{word : 'Democracia de colaboradores'}, 
-    			{word : 'Democracia de socios'}, 
-    			{word : 'Deliberación'},
-			{word : 'Participación'}
+    		    	{word : 'Populismo'}, 
+    			{word : 'López Obrador'}, 
+    			{word : 'Progresista'}, 
+    			{word : 'Bienestar social'},
+			{word : 'De izquierda'}
 			],
 				//Stimulus css (style)
 				stimulusCss : {color:'#336600','font-size':'2.3em'}
 			},
 			category2 :	{
-				name : 'Autoritarismo', //Will appear in the data and in the default feedback message.
+				name : 'PAN', //Will appear in the data and in the default feedback message.
 				title : {
-					media : {word : 'Autoritarismo'}, //Name of the category presented in the task.
+					media : {word : 'PAN'}, //Name of the category presented in the task.
 					css : {color:'#336600','font-size':'1.8em'}, //Style of the category title.
 					height : 4 //Used to position the "Or" in the combined block.
 				},
 				stimulusMedia : [ //Stimuli content as PIP's media objects
-    		    	{word : 'Autoritarismo'}, 
-    			{word : 'China'}, 
-    			{word : 'Fidel Castro'}, 
-    			{word : 'Anti-democrático'}, 
-    			{word : 'Corea del Norte'}			
+    		    	{word : 'Conservador'}, 
+    			{word : 'Calderón'}, 
+    			{word : 'De derecha'}, 
+    			{word : 'Valores tradicionales'}, 
+    			{word : 'Liberalismo'}			
 			],
 				//Stimulus css
 				stimulusCss : {color:'#336600','font-size':'2.3em'}
@@ -77,12 +77,11 @@ define(['pipAPI','pipScorer','underscore'], function(APIConstructor, Scorer, _) 
 				stimulusMedia : [ //Stimuli content as PIP's media objects
 					{word: 'Muerte'},
 					{word: 'Tristeza'},
-					{word: 'Dominación'},
+					{word: 'Enojo'},
 					{word: 'Malo'},
-					{word: 'Injusto'},
 					{word: 'Violencia'},
 					{word: 'Desigualdad'},
-					{word: 'Súbditos'}
+					{word: 'Esclavitud'}
 				],
 				//Stimulus css
 				stimulusCss : {color:'#0000FF','font-size':'2.3em'}
@@ -98,13 +97,11 @@ define(['pipAPI','pipScorer','underscore'], function(APIConstructor, Scorer, _) 
 				stimulusMedia : [ //Stimuli content as PIP's media objects
 					{word: 'Vida'},
 					{word: 'Felicidad'},
-					{word: 'Colaboración'},
 					{word: 'Excelente'},
-					{word: 'Justo'},
-					{word: 'Bien común'},
-					{word: 'Igualdad'},
-					{word: 'Participación'},
-					{word: 'Libertad'}
+					{word: 'Amistad'},
+					{word: 'Amor'},
+					{word: 'Alegría'},
+					{word: 'Salud'}
 				],
 				//Stimulus css
 				stimulusCss : {color:'#0000FF','font-size':'2.3em'}
@@ -319,7 +316,7 @@ define(['pipAPI','pipScorer','underscore'], function(APIConstructor, Scorer, _) 
 			//ATTENTION: We do not recommend showing participants their results. The IAT is a typical psychological measure so it is not very accurate. 
 			//In Project Implicit's website, you can see that we added much text to explain that there is still much unknown about the meaning of these results.
 			//We strongly recommend that you provide all these details in the debriefing of the experiment.
-			debriefingTextBottom : '\n \n Este resultado no es una evaluación definitiva de tus actitudes. Presiona la barra de espacio para continuar.', //Will be shown below the feedback text. 
+			//debriefingTextBottom : '\n \n Este resultado no es una evaluación definitiva de tus actitudes. Presiona la barra de espacio para continuar.', //Will be shown below the feedback text. 
             debriefingTextBottomTouch : 'Este resultado no es una evaluación definitiva de tus actitudes. Toca el área verde para continuar.',
 			//The default feedback messages for each cutoff -
 			//attribute1, and attribute2 will be replaced with the name of attribute1 and attribute2.
