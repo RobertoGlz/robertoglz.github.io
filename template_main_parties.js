@@ -42,8 +42,8 @@ define(['pipAPI','pipScorer','underscore'], function(APIConstructor, Scorer, _) 
 				stimulusMedia : [ //Stimuli content as PIP's media objects
     		    	{word : 'Populismo'}, 
     			{word : 'López Obrador'}, 
-    			{word : 'Progresista'}, 
-    			{word : 'Bienestar social'},
+    			{word : 'Cuarta Transformación'}, 
+    			{word : 'Claudia Sheinbaum'},
 			{word : 'De izquierda'}
 			],
 				//Stimulus css (style)
@@ -58,10 +58,10 @@ define(['pipAPI','pipScorer','underscore'], function(APIConstructor, Scorer, _) 
 				},
 				stimulusMedia : [ //Stimuli content as PIP's media objects
     		    	{word : 'Conservador'}, 
-    			{word : 'Calderón'}, 
-    			{word : 'De derecha'}, 
-    			{word : 'Valores tradicionales'}, 
-    			{word : 'Liberalismo'}			
+    			{word : 'Xochitl Gálvez'}, 
+    			{word : 'Alianza Opositora'}, 
+    			{word : 'Tradicional'}, 
+    			{word : 'Oposición'}			
 			],
 				//Stimulus css
 				stimulusCss : {color:'#336600','font-size':'2.3em'}
