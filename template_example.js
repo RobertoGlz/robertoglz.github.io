@@ -28,7 +28,7 @@ define(['pipAPI', 'https://robertoglz.github.io/template_main.js'], function(API
 				height : 4 //Used to position the "Or" in the combined block.
 			}, 
 			stimulusMedia : [ //Stimuli content as PIP's media objects
-    		    	{word : 'Autoritarismo'}, 
+    		    	{word : 'Dictador'}, 
     			{word : 'China'}, 
     			{word : 'Fidel Castro'}, 
     			{word : 'Anti-democrático'}, 
