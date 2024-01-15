@@ -12,10 +12,10 @@ define(['pipAPI', 'https://robertoglz.github.io/template_main.js'], function(API
 			stimulusMedia : [ //Stimuli content as PIP's media objects
     		    {word : 'Democracia'}, 
     			{word : 'Voto'}, 
-    			{word : 'Democracia de colaboradores'}, 
-    			{word : 'Democracia de socios'}, 
-    			{word : 'Deliberación'},
-			{word : 'Participación'}
+    			{word : 'Participación'}, 
+    			{word : 'Libre Expresión'}, 
+    			{word : 'Igualdad'},
+			{word : 'Tolerancia'}
 			], 
 			//Stimulus css (style)
 			stimulusCss : {color:'#31940F','font-size':'1.8em'}
@@ -28,11 +28,11 @@ define(['pipAPI', 'https://robertoglz.github.io/template_main.js'], function(API
 				height : 4 //Used to position the "Or" in the combined block.
 			}, 
 			stimulusMedia : [ //Stimuli content as PIP's media objects
-    		    	{word : 'Dictador'}, 
-    			{word : 'China'}, 
-    			{word : 'Fidel Castro'}, 
-    			{word : 'Anti-democrático'}, 
-    			{word : 'Corea del Norte'}				], 
+    		    	{word : 'Dominación'}, 
+    			{word : 'Disciplina'}, 
+    			{word : 'Obedecer'}, 
+    			{word : 'Jerarquía'}, 
+    			{word : 'Represión'}				], 
 			//Stimulus css
 			stimulusCss : {color:'#31940F','font-size':'1.8em'}
 		},	
