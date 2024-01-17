@@ -59,7 +59,7 @@ define(['pipAPI','pipScorer','underscore'], function(APIConstructor, Scorer, _) 
 				stimulusMedia : [ //Stimuli content as PIP's media objects
     		    	{word : 'Dominación'}, 
     			{word : 'Disciplina'}, 
-    			{word : 'Obedecer'}, 
+    			{word : 'Silenciar'}, 
     			{word : 'Jerarquía'}, 
     			{word : 'Represión'}			
 			],
