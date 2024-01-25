@@ -28,7 +28,7 @@ define(['pipAPI', 'https://robertoglz.github.io/template_main.js'], function(API
 			}, 
 			stimulusMedia : [ //Stimuli content as PIP's media objects
     		    	{word : 'Dominación'}, 
-    			{word : 'Disciplina'}, 
+    			{word : 'Militarismo'}, 
     			{word : 'Silenciar'}, 
     			{word : 'Jerarquía'}, 
     			{word : 'Represión'}				], 
