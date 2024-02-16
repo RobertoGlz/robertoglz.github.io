@@ -6,7 +6,7 @@ define(['pipAPI', 'https://robertoglz.github.io/template_main_touch.js'], functi
 			name : 'Democracia', //Will appear in the data.
 			title : {
 				media: {word : 'Democracia'}, //Name of the category presented in the task.
-				css : {color:'#31940F','font-size':'1em'}, //Style of the category title.
+				css : {color:'#31940F','font-size':'1.2em'}, //Style of the category title.
 				height : 4 //Used to position the "Or" in the combined block.
 			}, 
 			stimulusMedia : [ //Stimuli content as PIP's media objects
@@ -17,13 +17,13 @@ define(['pipAPI', 'https://robertoglz.github.io/template_main_touch.js'], functi
 			{word : 'Tolerancia'}
 			], 
 			//Stimulus css (style)
-			stimulusCss : {color:'#31940F','font-size':'1.2em'}
+			stimulusCss : {color:'#31940F','font-size':'1.4em'}
 		},	
 		category2 :	{
 			name : 'Autoritarismo', //Will appear in the data.
 			title : {
 				media : {word : 'Autoritarismo'}, //Name of the category presented in the task.
-				css : {color:'#31940F','font-size':'1em'}, //Style of the category title.
+				css : {color:'#31940F','font-size':'1.2em'}, //Style of the category title.
 				height : 4 //Used to position the "Or" in the combined block.
 			}, 
 			stimulusMedia : [ //Stimuli content as PIP's media objects
@@ -33,7 +33,7 @@ define(['pipAPI', 'https://robertoglz.github.io/template_main_touch.js'], functi
     			{word : 'Jerarquía'}, 
     			{word : 'Represión'}				], 
 			//Stimulus css
-			stimulusCss : {color:'#31940F','font-size':'1.2em'}
+			stimulusCss : {color:'#31940F','font-size':'1.4em'}
 		},	
 
 		base_url : {//Where are your images at?
