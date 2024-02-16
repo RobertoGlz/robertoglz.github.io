@@ -36,8 +36,8 @@ define(['pipAPI','pipScorer','underscore'], function(APIConstructor, Scorer, _) 
 				name : 'Democracia', //Will appear in the data and in the default feedback message.
 				title : {
 					media : {word : 'Democracia'}, //Name of the category presented in the task.
-					css : {color:'#336600','font-size':'1.6em'}, //Style of the category title.
-					height : 2 //Used to position the "Or" in the combined block.
+					css : {color:'#336600','font-size':'1em'}, //Style of the category title.
+					height : 1 //Used to position the "Or" in the combined block.
 				},
 				stimulusMedia : [ //Stimuli content as PIP's media objects
     		    	{word : 'Voto'}, 
@@ -47,14 +47,14 @@ define(['pipAPI','pipScorer','underscore'], function(APIConstructor, Scorer, _) 
 			{word : 'Tolerancia'}
 			],
 				//Stimulus css (style)
-				stimulusCss : {color:'#336600','font-size':'2em'}
+				stimulusCss : {color:'#336600','font-size':'1.4em'}
 			},
 			category2 :	{
 				name : 'Autoritarismo', //Will appear in the data and in the default feedback message.
 				title : {
 					media : {word : 'Autoritarismo'}, //Name of the category presented in the task.
-					css : {color:'#336600','font-size':'1.6em'}, //Style of the category title.
-					height : 2 //Used to position the "Or" in the combined block.
+					css : {color:'#336600','font-size':'1em'}, //Style of the category title.
+					height : 1 //Used to position the "Or" in the combined block.
 				},
 				stimulusMedia : [ //Stimuli content as PIP's media objects
     		    	{word : 'Dominación'}, 
@@ -64,15 +64,15 @@ define(['pipAPI','pipScorer','underscore'], function(APIConstructor, Scorer, _) 
     			{word : 'Represión'}			
 			],
 				//Stimulus css
-				stimulusCss : {color:'#336600','font-size':'2em'}
+				stimulusCss : {color:'#336600','font-size':'1.4em'}
 			},
 			attribute1 :
 			{
 				name : 'Malo',
 				title : {
 					media : {word : 'Malo'},
-					css : {color:'#0000FF','font-size':'1.8em'},
-					height : 2 //Used to position the "Or" in the combined block.
+					css : {color:'#0000FF','font-size':'1.4em'},
+					height : 1 //Used to position the "Or" in the combined block.
 				},
 				stimulusMedia : [ //Stimuli content as PIP's media objects
 					{word: 'Enemiga'},
@@ -85,15 +85,15 @@ define(['pipAPI','pipScorer','underscore'], function(APIConstructor, Scorer, _) 
 					{word: 'Enfermo'}
 				],
 				//Stimulus css
-				stimulusCss : {color:'#0000FF','font-size':'2em'}
+				stimulusCss : {color:'#0000FF','font-size':'1.6em'}
 			},
 			attribute2 :
 			{
 				name : 'Bueno',
 				title : {
 					media : {word : 'Bueno'},
-					css : {color:'#0000FF','font-size':'1.8em'},
-					height : 2 //Used to position the "Or" in the combined block.
+					css : {color:'#0000FF','font-size':'1.4em'},
+					height : 1 //Used to position the "Or" in the combined block.
 				},
 				stimulusMedia : [ //Stimuli content as PIP's media objects
 					{word: 'Amiga'},
@@ -106,7 +106,7 @@ define(['pipAPI','pipScorer','underscore'], function(APIConstructor, Scorer, _) 
 					{word: 'Sano'}
 				],
 				//Stimulus css
-				stimulusCss : {color:'#0000FF','font-size':'2em'}
+				stimulusCss : {color:'#0000FF','font-size':'1.6em'}
 			},
 
 			base_url : {//Where are your images at?
@@ -143,7 +143,7 @@ define(['pipAPI','pipScorer','underscore'], function(APIConstructor, Scorer, _) 
 			'Si cometes un error aparecerá una <font color="#ff0000"><b>X</b></font> color rojo. ' +
 			'Presiona alguna tecla para continuar.<p/>',
 
-			remindErrorTextTouch : '<p align="center" style="font-size:"1em"; font-family:arial">' +
+			remindErrorTextTouch : '<p align="center" style="font-size:"0.8em"; font-family:arial">' +
 			'Si cometes un error aparecerá una <font color="#ff0000"><b>X</b></font> color rojo. ' +
 			'Presiona alguna tecla para continuar.<p/>',
 
@@ -156,10 +156,10 @@ define(['pipAPI','pipScorer','underscore'], function(APIConstructor, Scorer, _) 
 			//Text and style for key instructions displayed about the category labels.
 			leftKeyText : 'Presiona "E" para', 
 			rightKeyText : 'Presiona "I" para', 
-			keysCss : {'font-size':'1.2em', 'font-family':'courier', color:'#000000'},
+			keysCss : {'font-size':'1em', 'font-family':'courier', color:'#000000'},
 			//Text and style for the separator between the top and bottom category labels.
 			orText : 'o', 
-			orCss : {'font-size':'1.6em', color:'#000000'},
+			orCss : {'font-size':'1em', color:'#000000'},
 			
 			instWidth : 99, //The width of the instructions stimulus
             
@@ -167,7 +167,7 @@ define(['pipAPI','pipScorer','underscore'], function(APIConstructor, Scorer, _) 
 			finalTouchText : 'Toca el área verde debajo para continuar a la siguiente tarea',
 
 			touchMaxStimulusWidth : '50%', 
-			touchMaxStimulusHeight : '40%', 
+			touchMaxStimulusHeight : '30%', 
 			bottomTouchCss: {}, //Add any CSS value you want for changing the css of the bottom touch area.
 
 			//Instructions text.
@@ -175,7 +175,7 @@ define(['pipAPI','pipScorer','underscore'], function(APIConstructor, Scorer, _) 
 			// the name of the categories and the block's number variables:
 			// leftCategory, rightCategory, leftAttribute and rightAttribute, blockNum, nBlocks.
 			// Notice that this is HTML text.
-			instAttributePractice: '<div><p align="center" style="font-size:15px; font-family:arial">' +
+			instAttributePractice: '<div><p align="center" style="font-size:12px; font-family:arial">' +
 				'<font color="#000000"><u>Part blockNum of nBlocks </u><br/><br/></p>' +
 				'<p style="font-size:15px; text-align:left; vertical-align:bottom; margin-left:10px; font-family:arial">' +
 				'Pon un dedo izquierdo en la tecla <b>E</b> para items que pertenezan a la categoría <font color="#0000ff">leftAttribute.</font>' +
@@ -201,7 +201,7 @@ define(['pipAPI','pipScorer','underscore'], function(APIConstructor, Scorer, _) 
 				'</div>'
 			].join('\n'),
 
-			instCategoriesPractice: '<div><p align="center" style="font-size:15px; font-family:arial">' +
+			instCategoriesPractice: '<div><p align="center" style="font-size:12px; font-family:arial">' +
 				'<font color="#000000"><u>Part blockNum of nBlocks </u><br/><br/></p>' +
 				'<p style="font-size:15px; text-align:left; vertical-align:bottom; margin-left:10px; font-family:arial">' +
 				'Pon un dedo izquierdo en la tecla <b>E</b> para items que pertenezcan a la categoría <font color="#336600">leftCategory</font>. ' +
@@ -228,7 +228,7 @@ define(['pipAPI','pipScorer','underscore'], function(APIConstructor, Scorer, _) 
 				'</div>'
 			].join('\n'),
 
-			instFirstCombined : '<div><p align="center" style="font-size:15px; font-family:arial">' +
+			instFirstCombined : '<div><p align="center" style="font-size:12px; font-family:arial">' +
 				'<font color="#000000"><u>Part blockNum of nBlocks </u><br/><br/></p>' +
 				'<p style="font-size:15px; text-align:left; vertical-align:bottom; margin-left:10px; font-family:arial">' +
 				'Usa la tecla <b>E</b> para <font color="#336600">leftCategory</font> y para <font color="#0000ff">leftAttribute</font>.<br/>' +
@@ -254,7 +254,7 @@ define(['pipAPI','pipScorer','underscore'], function(APIConstructor, Scorer, _) 
 				'</div>'
 			].join('\n'),
 
-			instSecondCombined : '<div><p align="center" style="font-size:15px; font-family:arial">' +
+			instSecondCombined : '<div><p align="center" style="font-size:12px; font-family:arial">' +
 				'<font color="#000000"><u>Part blockNum of nBlocks </u><br/><br/></p>' +
 				'<p style="font-size:15px; text-align:left; vertical-align:bottom; margin-left:10px; font-family:arial">' +
 				'Esta parte es igual a la anterior.<br/>' +
@@ -279,7 +279,7 @@ define(['pipAPI','pipScorer','underscore'], function(APIConstructor, Scorer, _) 
 				'</div>'
 			].join('\n'),
 
-			instSwitchCategories : '<div><p align="center" style="font-size:15px; font-family:arial">' +
+			instSwitchCategories : '<div><p align="center" style="font-size:12px; font-family:arial">' +
 				'<font color="#000000"><u>Part blockNum of nBlocks </u><br/><br/></p>' +
 				'<p style="font-size:15px; text-align:left; vertical-align:bottom; margin-left:10px; font-family:arial">' +
 				'<b>Presta atención, ¡las etiquetas han cambiado de posición!</b><br/>' +
