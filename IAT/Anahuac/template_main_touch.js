@@ -60,7 +60,7 @@ define(['pipAPI','pipScorer','underscore'], function(APIConstructor, Scorer, _) 
     		    	{word : 'Dominación'}, 
     			{word : 'Militarismo'}, 
     			{word : 'Silenciar'}, 
-    			{word : 'Jerarquía'}, 
+    			{word : 'Imposición'}, 
     			{word : 'Represión'}			
 			],
 				//Stimulus css
