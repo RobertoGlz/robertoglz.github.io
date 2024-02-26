@@ -30,7 +30,7 @@ define(['pipAPI', 'https://robertoglz.github.io/template_main_touch.js'], functi
     		    	{word : 'Dominación'}, 
     			{word : 'Militarismo'}, 
     			{word : 'Silenciar'}, 
-    			{word : 'Jerarquía'}, 
+    			{word : 'Imposición'}, 
     			{word : 'Represión'}				], 
 			//Stimulus css
 			stimulusCss : {color:'#31940F','font-size':'1.4em'}
