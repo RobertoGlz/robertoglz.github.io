@@ -8,7 +8,7 @@ date: 2022-08-15
 location: "Mexico City, Mexico"
 ---
 
-Taught newly hired RA's some basic functions and procedures for successfully working as a Research Assisstant.
+Taught newly hired RA's some basic functions and procedures for successfully working as a Research Assistant.
 
 Main topics
 ======
