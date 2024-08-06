@@ -11,6 +11,12 @@ author_profile: true
 **Working papers**
 ---
 
+**Work in Progress**
+---
+**Change in the Targeting Strategy of an Antipoverty Program: The end of Mexico's _Progresa_ and rise of _Becas Benito Juarez_**, with Arturo Aguilar and Santiago Ochoa
+
+**Schools and homes, which matters most for learning?**
+
 **Undergraduate Thesis**
 ---
 [¿Los seguros sociales y atención médica mejoran la salud? Evidencia del Seguro Popular en México](https://robertoglz.github.io/files/tesis_BA_RobertoGonzalez.pdf), _ITAM, Mexico City, Mexico, Adviser: Enrique Seira, 2023_
