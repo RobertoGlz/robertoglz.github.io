@@ -16,4 +16,4 @@ In this site you can find materials for the course "Economía I" taught at ITAM 
 
 I'll upload course notes and homeworks as the semester progresses.
 
-Teaching evaluations [here](https://robertoglz.github.io/files/Evals_Spring_2024_Eco_1.pdf)
+Teaching evaluations for the Spring 2024 semester [here](https://robertoglz.github.io/files/Evals_Spring_2024_Eco_1.pdf)
