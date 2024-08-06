@@ -13,9 +13,9 @@ author_profile: true
 
 **Work in Progress**
 ---
-<span style ="color: #DC0000">**Change in the Targeting Strategy of an Antipoverty Program: The end of Mexico's _Progresa_ and rise of _Becas Benito Juarez_**</span>, with Arturo Aguilar and Santiago Ochoa
+<span style ="color: #750014">**Change in the Targeting Strategy of an Antipoverty Program: The end of Mexico's _Progresa_ and rise of _Becas Benito Juarez_**</span>, with Arturo Aguilar and Santiago Ochoa
 
-<span style ="color: #DC0000">**Schools and homes, which matters most for learning?**</span>
+<span style ="color: #750014">**Schools and homes, which matters most for learning?**</span>
 
 **Undergraduate Thesis**
 ---
