@@ -8,12 +8,6 @@ date: 2024-1-15
 location: "Mexico City, Mexico"
 ---
 
-In this site you can find materials for the course "Economía I" taught at ITAM by me. 
-
 **Office hours:** Schedule an appointment via e-mail: rob98e [at] gmail.com
-
-**Syllabus about here**
-
-I'll upload course notes and homeworks as the semester progresses.
 
 Teaching evaluations for the Spring 2024 semester [here](https://robertoglz.github.io/files/Evals_Spring_2024_Eco_1.pdf)
