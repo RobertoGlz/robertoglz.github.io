@@ -8,6 +8,8 @@ date: 2024-1-15
 location: "Mexico City, Mexico"
 ---
 
+Materials for 'Economía I' or 'Principios de Microeconomía' taught at ITAM in Spring and Fall 2024.
+
 ## Raw Slides
 [**1 - ¿Qué es la Economía?**](https://robertoglz.github.io/files/Eco_1/01_Qué_es_la_economía.pdf)
 
