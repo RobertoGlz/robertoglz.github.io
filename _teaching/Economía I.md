@@ -26,6 +26,7 @@ Materials for 'Economía I' or 'Principios de Microeconomía' taught at ITAM in 
 [**6 - Fallas e Intervención**](https://robertoglz.github.io/files/Eco_1/06_Fallas_e_Intervención.pdf)
 
 ## Slides with annotations from class (Fall 2024)
+[**1 - Agosto 14 - Clase 1**](https://robertoglz.github.io/files/Eco_1/annotated/01_Clase_AGO14.pdf)
 
 ## Teaching Evaluations
 Teaching evaluations for the Spring 2024 semester [**here**](https://robertoglz.github.io/files/Evals_Spring_2024_Eco_1.pdf)
