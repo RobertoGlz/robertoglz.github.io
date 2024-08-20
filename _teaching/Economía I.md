@@ -34,5 +34,9 @@ Materials for 'Economía I' or 'Principios de Microeconomía' taught at ITAM in 
 
 [**Tarea 1**](https://robertoglz.github.io/files/Eco_1/homework/Tarea_1_Eco_1.pdf)
 
+## Do Files
+
+[**Simulation of Production Possibility Frontier**](https://robertoglz.github.io/files/Eco_1/simulation_fpp.do)
+
 ## Teaching Evaluations
 Teaching evaluations for the Spring 2024 semester [**here**](https://robertoglz.github.io/files/Evals_Spring_2024_Eco_1.pdf)
