@@ -7,6 +7,17 @@
 	Objective: Simulate production possibility frontier
 ---------------------------------------------------------------------------- */
 
+/* Add your local working directory for the plots to be exported to the appropriate folder */
+if "`c(username)'" == "Rob_9" {
+	global main "C:/Users/Rob_9/Documents/ITAM/Eco 1"
+}
+else {
+	global main "Your/local/path"
+}
+
+/* Create folder if it does not exist already */
+capture mkdir "${main}/fpp"
+
 clear
 
 /* Set number of observations */
@@ -45,6 +56,8 @@ twoway (scatter y_c_constant y_m_constant, connect(direct) color("117 0 20") xla
 	note("{it:Nota:} Frontera de posibilidades de producción manteniendo constante el número de hornos pero " ///
 	"cambiando la asignación de trabajadores. Costo de oportunidad constante.")
 
+graph export "${main}/fpp/constant_oppcost.pdf", replace	
+	
 /* Plot relationship between production of both goods with increasing opp cost */
 twoway (scatter y_c_concave y_m_concave, connect(direct) color("117 0 20") xlabel(0(3)15) ///
 	ylabel(0(3)15) msymbol(T) msize(medlarge)) ///
@@ -55,6 +68,8 @@ twoway (scatter y_c_concave y_m_concave, connect(direct) color("117 0 20") xlabe
 	ytitle("Producción de" "Croissants") xtitle("Producción de" "Muffins") ///
 	note("{it:Nota:} Frontera de posibilidades de producción manteniendo constante el número de hornos pero " ///
 	"cambiando la asignación de trabajadores. Costo de oportunidad creciente.")
+
+graph export "${main}/fpp/increasing_oppcost.pdf", replace
 	
 /* Plot relationship between production of both goods with decreasing opp cost */
 twoway (scatter y_c_convex y_m_convex, connect(direct) color("117 0 20") xlabel(0(4)20) ///
@@ -66,3 +81,5 @@ twoway (scatter y_c_convex y_m_convex, connect(direct) color("117 0 20") xlabel(
 	ytitle("Producción de" "Croissants") xtitle("Producción de" "Muffins") ///
 	note("{it:Nota:} Frontera de posibilidades de producción manteniendo constante el número de hornos pero " ///
 	"cambiando la asignación de trabajadores. Costo de oportunidad decreciente.")
+	
+graph export "${main}/fpp/decreasing_oppcost.pdf", replace
