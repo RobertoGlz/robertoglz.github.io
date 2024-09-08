@@ -38,12 +38,14 @@ Materials for 'Economía I' or 'Principios de Microeconomía' taught at ITAM in 
 
 [**2 - Septiembre 02 - Clase 6**](https://robertoglz.github.io/files/Eco_1/annotated/02_Clase_SEP02.pdf)
 
-## Homework (Optional - If you want it graded send it to rob98e [at] gmail.com)
+## Homework
+[**Tarea 1 - Optional**](https://robertoglz.github.io/files/Eco_1/homework/Tarea_1_Eco_1.pdf) If you want it graded send it to rob98e (at) gmail.com
 
-[**Tarea 1**](https://robertoglz.github.io/files/Eco_1/homework/Tarea_1_Eco_1.pdf)
+[**Tarea 2 - MANDATORY**](https://robertoglz.github.io/files/Eco_1/homework/Tarea_2_Eco_1.pdf) Due September 20, 2024 - Send to rob98e (at) gmail.com
+
+[**Tarea 3 - MANDATORY**](https://robertoglz.github.io/files/Eco_1/homework/Tarea_3_Eco_1.pdf) Due September 20, 2024 - Send to rob98e (at) gmail.com
 
 ## Do Files
-
 [**Simulation of Production Possibility Frontier**](https://robertoglz.github.io/files/Eco_1/simulation_fpp.do)
 
 ## Teaching Evaluations
