@@ -15,7 +15,9 @@ author_profile: true
 ---
 <span style ="color: #750014">**Change in the Targeting Strategy of an Antipoverty Program: The end of Mexico's _Progresa_ and rise of _Becas Benito Juarez_**</span>, with Arturo Aguilar and Santiago Ochoa
 
-<span style ="color: #750014">**Environment at schools and homes, which matters most for learning?**</span>
+<span style ="color: #750014">**Educational Attainment and Tree Presence Near Sudents' Schools and Homes**</span>
+
+<span style = "color: #750014">**The Rollback of _Progresa_ and Migration Patterns**</span>, with Andrea Rancaño
 
 **Undergraduate Thesis**
 ---
