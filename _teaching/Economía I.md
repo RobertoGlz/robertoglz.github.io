@@ -52,6 +52,11 @@ Materials for 'Economía I' or 'Principios de Microeconomía' taught at ITAM in 
 
 [**3 - Septiembre 30, Octubre 2 y 7 - Clases 13, 14 y 15**](https://robertoglz.github.io/files/Eco_1/annotated/04_Clase_SEP30_OCT02_OCT07.pdf)
 
+[**4 - Octubre 9 a 23 - Clases 16 a 20**](https://robertoglz.github.io/files/Eco_1/annotated/04_Clase_OCT09_OCT14_OCT23.pdf)
+
+## Class Recordings for October 16 to October 23
+[Click here to watch, have the password at hand](https://us02web.zoom.us/rec/share/poXfkVA135ZjBQqe968j_IHO-_lcK8KOqBHUG2r7vO4dH5or5M_LL2mGp2FcUlDO.aElyJkPQl1VseI6Y)
+
 ## Homework
 [**Tarea 1 - Optional**](https://robertoglz.github.io/files/Eco_1/homework/Tarea_1_Eco_1.pdf) If you want it graded send it to rob98e (at) gmail.com
 
