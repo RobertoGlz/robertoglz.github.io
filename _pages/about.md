@@ -10,7 +10,7 @@ redirect_from:
 
 ### Research Interests
 
-I am interested in Development Economics, Economics of Education, Applied Econometrics, Political Economy and Health.
+I am interested in Development Economics, Political Economy and Applied Econometrics.
 
 Within my webpage you can find my [Research](https://robertoglz.github.io/research), [CV](https://robertoglz.github.io/files/robertogonzalez_cv.pdf), and [Teaching materials](https://robertoglz.github.io/teaching).
 
