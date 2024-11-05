@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Roberto González Téllez"
 title_separator          : "-"
 name                     : &name "Roberto González"
-description              : &description "MSc. Student & Pre-doctoral Research Fellow - Interested in development econ and applied micro."
+description              : &description "MA Student - Development, Political Econ & Applied Metrics."
 url                      : https://robertoglz.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Roberto González"
   avatar           : "profile_pic_rgt.jpg"
-  bio              : "MA Student - Interested in development econ, Education and Metrics. Pre-doctoral Research Fellow at MSU & CIE ITAM"
+  bio              : "MA Student - Development econ, Political Econ & Applied Metrics."
   location         : "Mexico City, Mexico"
   employer         :
   pubmed           : 
