@@ -8,7 +8,7 @@ author_profile: true
 ## Working papers
 
 ## Work in Progress
-5-   (2025) <span style ="color: #750014">**The Economics of Public Misinformation**</span>
+5-   (2025) <span style ="color: #750014">The Economics of Public Misinformation</span>
 
 4-   (2024) <span style ="color: #750014">**Corruption hinders social stability**</span>, with Eduardo Rivera, Enrique Seira and Saumitra Jha
 
