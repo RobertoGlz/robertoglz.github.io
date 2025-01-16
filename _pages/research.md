@@ -5,7 +5,7 @@ permalink: /research/
 author_profile: true
 ---
 
-## Working papers
+## Working Papers
 
 ## Work in Progress
 5.-   &nbsp; (2025) <span style ="color: #750014">The Economics of Public Misinformation</span>
