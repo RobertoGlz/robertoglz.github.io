@@ -14,7 +14,7 @@ author_profile: true
 
 3.-   &nbsp; (2024) <span style ="color: #750014">Corruption Hinders Social Stability</span>, with Eduardo Rivera, Enrique Seira and Saumitra Jha
 
-2.-   &nbsp; (2024) <span style ="color: #750014">Change in the Targeting Strategy of an Antipoverty Program: The end of Mexico's _Progresa_ and rise of _Becas Benito Juarez_ </span>, with Arturo Aguilar and Santiago Ochoa
+2.-   &nbsp; (2024) <span style ="color: #750014">Change in the Targeting Strategy of an Antipoverty Program: The end of Mexico's _Progresa_ and rise of _Becas Benito Juarez_ </span>, with Arturo Aguilar, Santiago Ochoa and Horacio Reyes
 
 1.-   &nbsp; (2024) <span style ="color: #750014">Educational Attainment and Tree Presence Near Sudents' Schools and Homes</span> 
 
