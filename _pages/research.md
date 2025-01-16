@@ -8,17 +8,17 @@ author_profile: true
 ## Working papers
 
 ## Work in Progress
-6.-   &nbsp; (2025) <span style ="color: #750014">The Economics of Public Misinformation</span>
+5.-   &nbsp; (2025) <span style ="color: #750014">The Economics of Public Misinformation</span>
 
-5.-   &nbsp; (2025) <span style ="color: #750014">Stigma, Beliefs, and Demand for Mental Health Services Among University Students</span>, with Alisher Batmanov, Idaliya Grigoryeva, Bruno Calderón-Hernández and Alejandro Guardiola-Ramírez 
+4.-   &nbsp; (2025) <span style ="color: #750014">Beliefs and Demand for Mental Health Services Among University Students</span>, with Alisher Batmanov, Idaliya Grigoryeva, Bruno Calderón-Hernández and Alejandro Guardiola-Ramírez 
 
-4.-   &nbsp; (2024) <span style ="color: #750014">Corruption hinders social stability</span>, with Eduardo Rivera, Enrique Seira and Saumitra Jha
+3.-   &nbsp; (2024) <span style ="color: #750014">Corruption Hinders Social Stability</span>, with Eduardo Rivera, Enrique Seira and Saumitra Jha
 
-3.-   &nbsp; (2024) <span style ="color: #750014">Change in the Targeting Strategy of an Antipoverty Program: The end of Mexico's _Progresa_ and rise of _Becas Benito Juarez_ </span>, with Arturo Aguilar and Santiago Ochoa
+2.-   &nbsp; (2024) <span style ="color: #750014">Change in the Targeting Strategy of an Antipoverty Program: The end of Mexico's _Progresa_ and rise of _Becas Benito Juarez_ </span>, with Arturo Aguilar and Santiago Ochoa
 
-2.-   &nbsp; (2024) <span style ="color: #750014">Educational Attainment and Tree Presence Near Sudents' Schools and Homes</span> 
+1.-   &nbsp; (2024) <span style ="color: #750014">Educational Attainment and Tree Presence Near Sudents' Schools and Homes</span> 
 
-1.-   &nbsp; (2024) <span style = "color: #750014">The Rollback of _Progresa_ and Migration Patterns</span>, with Andrea Rancaño 
+[1.-   &nbsp; (2024) <span style = "color: #750014">The Rollback of _Progresa_ and Migration Patterns</span>, with Andrea Rancaño]: # 
 
 ## Publications 
 
