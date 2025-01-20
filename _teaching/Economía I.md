@@ -28,6 +28,8 @@ Materials for 'Economía I' or 'Principios de Microeconomía' taught at ITAM in 
 ## Slides with annotations from class (Spring 2025)
 [1 - ¿Qué es la Economía? - Clase 2](https://robertoglz.github.io/files/Eco_1/annotated/tema_1_clase_2.pdf)
 
+[1 - ¿Qué es la Economía? - Clase 3](https://robertoglz.github.io/files/Eco_1/annotated/tema_1_clase_3.pdf)
+
 ## Do Files
 [Simulation of Production Possibility Frontier](https://robertoglz.github.io/files/Eco_1/simulation_fpp.do)
 
