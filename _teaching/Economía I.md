@@ -38,6 +38,8 @@ Materials for 'Economía I' or 'Principios de Microeconomía' taught at ITAM in 
 
 [2 - Consumidores - Clase 6](https://robertoglz.github.io/files/Eco_1/annotated/tema_2_clase_6.pdf)
 
+[2 - Consumidores - Clase 7](https://robertoglz.github.io/files/Eco_1/annotated/tema_2_clase_7.pdf)
+
 ## Do Files
 [Simulation of Production Possibility Frontier](https://robertoglz.github.io/files/Eco_1/simulation_fpp.do)
 
