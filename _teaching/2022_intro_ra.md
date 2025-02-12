@@ -1,3 +1,4 @@
+<!---
 ---
 title: "Introduction to R for RA's"
 collection: teaching
@@ -17,3 +18,4 @@ Main topics
 * Overall data wrangling
 * Econometric packages such as fixest
 * RMarkdown
+--->
