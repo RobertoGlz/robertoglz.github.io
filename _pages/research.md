@@ -12,13 +12,13 @@ author_profile: true
 <!--1.-   &nbsp; (2025) <span style ="color: #0F52BA">[_Submitted!_]</span> <span style ="color: #750014"><a href="https://robertoglz.github.io/files/research/mh_jan2025.pdf">Beliefs and Demand for Mental Health Services Among University Students</a></span>, with Alisher Batmanov, Idaliya Grigoryeva, Bruno Calderón-Hernández and Alejandro Guardiola-Ramírez-->
 
 ## Work in Progress
-4.-   &nbsp; (2025) <span style ="color: #750014">The Economics of Public Misinformation</span>
+4.-   &nbsp; (2025) <span style ="color: #750014">Educational Attainment and Tree Presence Near Sudents' Schools and Homes</span> 
 
-3.-   &nbsp; (2024) <span style ="color: #750014">The Violent Effects of Apex Corruption</span>, with Eduardo Rivera, Enrique Seira and Saumitra Jha
+3.-   &nbsp; (2025) <span style ="color: #750014">The Economics of Public Misinformation</span>
 
-2.-   &nbsp; (2024) <span style ="color: #750014">Change in the Targeting Strategy of an Antipoverty Program: The end of Mexico's _Progresa_ and rise of _Becas Benito Juarez_ </span>, with Arturo Aguilar, Santiago Ochoa and Horacio Reyes
+2.-   &nbsp; (2025) <span style ="color: #750014">The Violent Effects of Apex Corruption</span>, with Eduardo Rivera, Enrique Seira and Saumitra Jha
 
-1.-   &nbsp; (2024) <span style ="color: #750014">Educational Attainment and Tree Presence Near Sudents' Schools and Homes</span> 
+1.-   &nbsp; (2024) <span style ="color: #750014">Change in the Targeting Strategy of an Antipoverty Program: The end of Mexico's _Progresa_ and rise of _Becas Benito Juarez_ </span>, with Arturo Aguilar, Santiago Ochoa and Horacio Reyes
 
 <!--1.-   &nbsp; (2024) <span style = "color: #750014">The Rollback of _Progresa_ and Migration Patterns</span>, with Andrea Rancaño-->
 
