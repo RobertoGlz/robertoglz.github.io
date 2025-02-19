@@ -14,7 +14,7 @@ author_profile: true
 ## Work in Progress
 4.-   &nbsp; (2025) <span style ="color: #750014">The Economics of Public Misinformation</span>
 
-3.-   &nbsp; (2024) <span style ="color: #750014">Corruption Hinders Social Stability</span>, with Eduardo Rivera, Enrique Seira and Saumitra Jha
+3.-   &nbsp; (2024) <span style ="color: #750014">The Violent Effects of Apex Corruption</span>, with Eduardo Rivera, Enrique Seira and Saumitra Jha
 
 2.-   &nbsp; (2024) <span style ="color: #750014">Change in the Targeting Strategy of an Antipoverty Program: The end of Mexico's _Progresa_ and rise of _Becas Benito Juarez_ </span>, with Arturo Aguilar, Santiago Ochoa and Horacio Reyes
 
