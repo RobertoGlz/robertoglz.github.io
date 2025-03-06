@@ -46,6 +46,8 @@ Materials for 'Economía I' or 'Principios de Microeconomía' taught at ITAM in 
 
 [3A - Productores - Clase 9](https://robertoglz.github.io/files/Eco_1/annotated/tema_3_clase_9.pdf)
 
+[3A - Productores - Clase 15](https://robertoglz.github.io/files/Eco_1/annotated/tema_3_clase_15.pdf)
+
 ## Extra exercises (Optional)
 
 [¿Qué es la Economía?](https://robertoglz.github.io/files/Eco_1/homework/Tarea_1_Eco_1.pdf)
