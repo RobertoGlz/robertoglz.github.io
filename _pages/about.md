@@ -14,9 +14,11 @@ I am interested in Development Economics, Political Economy and Applied Economet
 
 Within my webpage you can find my [Research](https://robertoglz.github.io/research), [CV](https://robertoglz.github.io/files/robertogonzalez_cv.pdf), and [Teaching materials](https://robertoglz.github.io/teaching).
 
+Please, do reach out if you are interested in collaborating in research projects.
+
 ### Non-academic things I enjoy
 
-I like playing football (soccer) and going out for runs. As for gastronomy, I enjoy having a good _choripán_ or _bratwurst_ and _alfajores_ & _apfelstrudel_ are my absolute favourite desserts.
+I like playing football (soccer) and going out for runs. I'm always down for having a good steak and I enjoy drinking _mate_ with my friends (and by myself as well!). 
 
 ### Educational Background
 
