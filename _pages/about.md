@@ -10,7 +10,7 @@ redirect_from:
 
 ### Research Interests
 
-I am interested in Development Economics, Political Economy and Applied Econometrics. My goal as a researcher is to provide insights that help end poverty.
+I am interested in Development Economics, Political Economy and Applied Econometrics. \n My goal as a researcher is to provide insights that help end poverty.
 
 Within my webpage you can find my [Research](https://robertoglz.github.io/research), [CV](https://robertoglz.github.io/files/robertogonzalez_cv.pdf), and [Teaching materials](https://robertoglz.github.io/teaching).
 
