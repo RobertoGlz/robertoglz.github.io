@@ -10,7 +10,7 @@ redirect_from:
 
 ### Research Interests
 
-I am interested in Development Economics, Political Economy and Applied Econometrics. \n My goal as a researcher is to provide insights that help end poverty.
+I am interested in Development Economics, Political Economy and Applied Econometrics.<br /> My goal as a researcher is to provide insights that help end poverty.
 
 Within my webpage you can find my [Research](https://robertoglz.github.io/research), [CV](https://robertoglz.github.io/files/robertogonzalez_cv.pdf), and [Teaching materials](https://robertoglz.github.io/teaching).
 
@@ -18,7 +18,7 @@ Please, do reach out if you are interested in collaborating in research projects
 
 ### Non-academic things I enjoy
 
-I like playing football (soccer) and going out for runs. I'm always down for having a good steak and I enjoy drinking _mate_ with my friends (and by myself as well!). 
+I like playing football (soccer) and going out for runs.<br /> I'm always down for having a good steak and I enjoy drinking _mate_ with my friends (and by myself as well!). 
 
 ### Educational Background
 
