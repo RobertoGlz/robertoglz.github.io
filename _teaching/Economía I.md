@@ -52,6 +52,8 @@ Materials for 'Economía I' or 'Principios de Microeconomía' taught at ITAM in 
 
 [4 - Mercado Competitivo - Clase 17](https://robertoglz.github.io/files/Eco_1/annotated/tema_4_clase_17.pdf)
 
+[4 - Mercado Competitivo - Clase 18](https://robertoglz.github.io/files/Eco_1/annotated/tema_4_clase_18.pdf)
+
 ## Extra exercises (Optional)
 
 [¿Qué es la Economía?](https://robertoglz.github.io/files/Eco_1/homework/Tarea_1_Eco_1.pdf)
