@@ -7,9 +7,7 @@ author_profile: true
 
 ## Working Papers
 
-1.-   &nbsp; (2025) <span style ="color: #0F52BA">[_Submitted!_]</span> <span style ="color: #750014">Beliefs and Demand for Mental Health Services Among University Students</span><br /> &nbsp; &nbsp; &nbsp; &nbsp; with Alisher Batmanov, Idaliya Grigoryeva, Bruno Calderón-Hernández and Alejandro Guardiola-Ramírez 
-
-<!--1.-   &nbsp; (2025) <span style ="color: #0F52BA">[_Submitted!_]</span> <span style ="color: #750014"><a href="https://robertoglz.github.io/files/research/mh_jan2025.pdf">Beliefs and Demand for Mental Health Services Among University Students</a></span>, with Alisher Batmanov, Idaliya Grigoryeva, Bruno Calderón-Hernández and Alejandro Guardiola-Ramírez-->
+1.-   &nbsp; (2025) <span style ="color: #0F52BA">[_Submitted!_]</span> <span style ="color: #750014"><a href="https://github.com/RobertoGlz/robertoglz.github.io/blob/master/files/research/mh_jde_submission_2025jan30.pdf">Beliefs and Demand for Mental Health Services Among University Students</a></span><br /> &nbsp; &nbsp; &nbsp; &nbsp; with Alisher Batmanov, Idaliya Grigoryeva, Bruno Calderón-Hernández and Alejandro Guardiola-Ramírez 
 
 ## Work in Progress
 4.-   &nbsp; (2025) <span style ="color: #750014">Educational Attainment and Tree Presence Near Sudents' Schools and Homes</span> 
