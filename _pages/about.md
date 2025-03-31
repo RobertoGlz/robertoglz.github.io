@@ -12,7 +12,7 @@ redirect_from:
 
 I am interested in Development Economics, Political Economy and Applied Econometrics.<br /> My goal as a researcher is to provide insights that help end poverty.
 
-I am currently working as a Pre-doctoral Fellow with Prof. Enrique Seira (MSU) and Prof. Joyce Sadka (ITAM).>br /> In July 2025 I will move to the beautiful city of Palo Alto to work as a Pre-doctoral Research Fellow at Stanford GSB.
+I am currently working as a Pre-doctoral Fellow with Prof. Enrique Seira (MSU) and Prof. Joyce Sadka (ITAM).<br /> In July 2025 I will move to the beautiful city of Palo Alto to work as a Pre-doctoral Research Fellow at Stanford GSB.
 
 Within my webpage you can find my [Research](https://robertoglz.github.io/research), [CV](https://robertoglz.github.io/files/robertogonzalez_cv.pdf), and [Teaching materials](https://robertoglz.github.io/teaching).
 
