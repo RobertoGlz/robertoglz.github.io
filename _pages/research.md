@@ -22,7 +22,7 @@ author_profile: true
 ## Publications 
 
 ## Undergraduate Thesis
-(2023) [¿Los seguros sociales y atención médica mejoran la salud? Evidencia del Seguro Popular en México](https://robertoglz.github.io/files/tesis_BA_RobertoGonzalez.pdf)<br /> ITAM, Mexico City, Mexico, Adviser: Enrique Seira <br /> _Honorary Mention in the 2023 Citibanamex Prize in Economic Research (Undergraduate Thesis category)_
+(2023) [¿Los seguros sociales y atención médica mejoran la salud? Evidencia del Seguro Popular en México](https://robertoglz.github.io/files/tesis_BA_RobertoGonzalez.pdf)<br /> ITAM, Mexico City, Mexico, Adviser: Enrique Seira <br /> _Honorary Mention in the 2023 Banamex Prize in Economic Research (Undergraduate Thesis category)_
 
 <!---
 {% if author.googlescholar %}
