@@ -26,4 +26,4 @@ I like playing football (soccer) and going out for runs.<br /> I'm always down f
 
 I graduated from an MA in Economic Theory at ITAM in December 2024 in Mexico City. I expect to get my degree by July 2025. 
 
-I hold a BA in Economics (ITAM, 2022). You can look at my undergrad thesis exploring the effects of Seguro Popular on mortality [here](https://robertoglz.github.io/files/tesis_BA_RobertoGonzalez.pdf). I was awarded with _Honorary Mention_ in the _2023 Citibanamex Prize in Economic Research_ in the Undergraduate Theses category due to this work.
+I hold a BA in Economics (ITAM, 2022). You can look at my undergrad thesis exploring the effects of Seguro Popular on mortality [here](https://robertoglz.github.io/files/tesis_BA_RobertoGonzalez.pdf). I was awarded with _Honorary Mention_ in the _2023 Banamex Prize in Economic Research_ in the Undergraduate Theses category due to this work.
