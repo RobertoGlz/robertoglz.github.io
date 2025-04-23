@@ -60,6 +60,8 @@ Materials for 'Economía I' or 'Principios de Microeconomía' taught at ITAM in 
 
 [5 - Mercado No Competitivo - Precios Máximos y Mínimos - Clases 22 y 23](https://robertoglz.github.io/files/Eco_1/annotated/tema_5_clases_22_23.pdf)
 
+[6 - Fallas e Intervención - Clase 24](https://robertoglz.github.io/files/Eco_1/annotated/tema_6_clase_24.pdf)
+
 ## Extra exercises (Optional)
 
 [¿Qué es la Economía?](https://robertoglz.github.io/files/Eco_1/homework/Tarea_1_Eco_1.pdf)
