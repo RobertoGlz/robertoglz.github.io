@@ -90,7 +90,8 @@ $xing-color                 : #006567;
 
 
 /* links */
-$link-color                 : #750014 !default;
+/* MIT Red #750014 ; Stanford Red #8C1515 */
+$link-color                 : #8C1515 !default;
 $link-color-hover           : mix(#000, $link-color, 25%);
 $link-color-visited         : mix(#fff, $link-color, 25%);
 $masthead-link-color        : $primary-color;
