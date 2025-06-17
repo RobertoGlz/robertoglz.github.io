@@ -12,7 +12,7 @@ redirect_from:
 
 I am interested in Development Economics, Political Economy and Applied Econometrics.<br /> My goal as a researcher is to provide insights that help end poverty.
 
-I am currently working as a Pre-doctoral Fellow with Prof. Enrique Seira (MSU) and Prof. Joyce Sadka (ITAM).<br /> In July 2025 I will move to the beautiful city of Palo Alto to work as a Pre-doctoral Research Fellow at Stanford GSB.
+I am currently working as a Pre-doctoral Fellow with Prof. Enrique Seira (MSU) and Prof. Joyce Sadka (ITAM).<br /> Starting in July 2025 I will work as a Pre-doctoral Research Fellow at Stanford GSB.
 
 Within my webpage you can find my [Research](https://robertoglz.github.io/research), [CV](https://robertoglz.github.io/files/robertogonzalez_cv.pdf), and [Teaching materials](https://robertoglz.github.io/teaching).
 
@@ -24,6 +24,6 @@ I like playing football (soccer) and going out for runs.<br /> I'm always down f
 
 ### Educational Background
 
-I graduated from an MA in Economic Theory at ITAM in December 2024 in Mexico City. I expect to get my degree by July 2025. 
+I graduated from an MA in Economic Theory at ITAM in December 2024 in Mexico City. I expect to get my degree in 2026. 
 
 I hold a BA in Economics (ITAM, 2022). You can look at my undergrad thesis exploring the effects of Seguro Popular on mortality [here](https://robertoglz.github.io/files/tesis_BA_RobertoGonzalez.pdf). I was awarded with _Honorary Mention_ in the _2023 Banamex Prize in Economic Research_ in the Undergraduate Theses category due to this work.
