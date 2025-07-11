@@ -12,7 +12,7 @@ redirect_from:
 
 I am interested in Development Economics, Political Economy and Applied Econometrics.<br /> My goal as a researcher is to provide insights that help end poverty.
 
-I am currently working as a Research Fellow at Stanford GSB.
+I work as a Research Fellow at Stanford GSB.
 
 Within my webpage you can find my [Research](https://robertoglz.github.io/research), [CV](https://robertoglz.github.io/files/robertogonzalez_cv.pdf), and [Teaching materials](https://robertoglz.github.io/teaching).
 
