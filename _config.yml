@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Roberto González Téllez"
 title_separator          : "-"
 name                     : &name "Roberto González"
-description              : &description "MA Student - Development, Political Econ & Applied Metrics."
+description              : &description "Research Fellow at Stanford SGB - Development, Political Econ & Applied Metrics."
 url                      : https://robertoglz.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Roberto González"
-  avatar           : "profile_pic_rgt.jpg"
+  avatar           : "rgt_stanford_rf_headshot_2025.jpg"
   bio              : "Development Econ, Political Econ & Metrics."
   location         : "Mexico City, Mexico"
   employer         :
