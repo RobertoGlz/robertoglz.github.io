@@ -10,8 +10,6 @@
   -webkit-transform: translate3d(0, 0 , 0);
           transform: translate3d(0, 0 , 0);
 
-   background-color: #8C1515;
-
   @include clearfix();
   margin-bottom: 1em;
 
@@ -86,7 +84,7 @@
 
   img {
     max-width: 175px;
-    border-radius: 50%;
+    border-radius: 8px;
 
     @include breakpoint($large) {
       padding: 5px;
