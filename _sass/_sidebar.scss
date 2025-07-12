@@ -10,6 +10,8 @@
   -webkit-transform: translate3d(0, 0 , 0);
           transform: translate3d(0, 0 , 0);
 
+   background-color: #8C1515;
+
   @include clearfix();
   margin-bottom: 1em;
 
@@ -74,7 +76,7 @@
   vertical-align: top;
   width: 36px;
   // set width only, for non-square avatars
-  height: 36px;
+  // height: 36px;
 
   @include breakpoint($large) {
     display: block;
@@ -84,7 +86,7 @@
 
   img {
     max-width: 175px;
-    border-radius: 70%;
+    border-radius: 50%;
 
     @include breakpoint($large) {
       padding: 5px;
