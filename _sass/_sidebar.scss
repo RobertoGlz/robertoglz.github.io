@@ -69,12 +69,13 @@
    Author profile and links
    ========================================================================== */
 
+/*
 .author__avatar {
   display: table-cell;
   vertical-align: top;
   width: 108px;
   // set width only, for non-square avatars
-  height: 72px;
+  // height: 72px;
 
   @include breakpoint($large) {
     display: block;
@@ -92,6 +93,22 @@
     }
   }
 }
+*/
+.author__avatar {
+  display: block;
+  margin: 0 auto;
+  width: 160px;        /* horizontal size */
+  height: 220px;       /* vertical size */
+  overflow: hidden;    /* crop anything outside the oval */
+}
+
+.author__avatar img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;   /* keeps proportions, fills oval */
+  border-radius: 50%;  /* makes it oval */
+}
+
 
 .author__content {
   display: table-cell;
