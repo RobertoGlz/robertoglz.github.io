@@ -12,7 +12,7 @@ author_profile: true
 1.-   &nbsp; (2025) <span style ="color: #0F52BA">[Revised]</span> <span style ="color: #8C1515"><a href="https://robertoglz.github.io/files/research/mh_jde_submission_2025may25.pdf">Beliefs, Information Sharing, and Mental Health Care Use Among University Students</a></span><br /> &nbsp; &nbsp; &nbsp; &nbsp; with Alisher Batmanov, Idaliya Grigoryeva, Bruno Calderón-Hernández and Alejandro Guardiola-Ramírez<br /> &nbsp; &nbsp; &nbsp; &nbsp; <span style = "color: #71797E"> Reject and Resubmit at the Journal of Development Economics (Special Issue)</span>
 
 ## Work in Progress
-3.-   &nbsp; (2025) <span style ="color: #8C1515">Educational Attainment and Tree Presence Near Sudents' Schools and Homes</span> 
+3.-   &nbsp; (2025) <span style ="color: #8C1515">Bad Outcomes with Good Mechanisms</span><br /> &nbsp; &nbsp; &nbsp; &nbsp; with Cem Kozano&#287;lu
 
 2.-   &nbsp; (2025) <span style ="color: #8C1515">The Economics of Public Misinformation</span>
 
