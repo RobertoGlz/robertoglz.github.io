@@ -9,7 +9,7 @@ author_profile: true
 ## Working Papers
 2.-   &nbsp; (2025) <span style ="color: #0F52BA">[New]</span> <span style ="color: #8C1515"><a href="https://robertoglz.github.io/files/research/bbj_distributional_2025jul28.pdf">From Means-Tested to Universal Antipoverty Programs: Distributional Consequences and Effects on Dropout</a></span><br /> &nbsp; &nbsp; &nbsp; &nbsp; with Arturo Aguilar, Santiago Ochoa and Horacio Reyes
 
-1.-   &nbsp; (2025) <span style ="color: #0F52BA">[Revised]</span> <span style ="color: #8C1515"><a href="https://robertoglz.github.io/files/research/mh_stigma.pdf">Beliefs, Information Sharing, and Mental Health Care Use Among University Students</a></span><br /> &nbsp; &nbsp; &nbsp; &nbsp; with Alisher Batmanov, Idaliya Grigoryeva, Bruno Calderón-Hernández and Alejandro Guardiola-Ramírez<br /> &nbsp; &nbsp; &nbsp; &nbsp; <span style = "color: #71797E"> Revise and Resubmit at the Journal of Development Economics (Special Issue)</span>
+1.-   &nbsp; (2025) <span style ="color: #0F52BA">[Revised]</span> <span style ="color: #8C1515"><a href="https://robertoglz.github.io/files/research/mh_stigma.pdf">Beliefs, Information Sharing, and Mental Health Care Use Among University Students</a></span><br /> &nbsp; &nbsp; &nbsp; &nbsp; with Alisher Batmanov, Idaliya Grigoryeva, Bruno Calderón-Hernández and Alejandro Guardiola-Ramírez<br /> &nbsp; &nbsp; &nbsp; &nbsp; <span style = "color: #71797E"> Accepted at the Journal of Development Economics (Special Issue)</span>
 
 ## Work in Progress
 3.-   &nbsp; (2025) <span style ="color: #8C1515">Bad Outcomes with Good Mechanisms</span><br /> &nbsp; &nbsp; &nbsp; &nbsp; with Cem Kozano&#287;lu
