@@ -40,11 +40,12 @@ define(['pipAPI','pipScorer','underscore'], function(APIConstructor, Scorer, _) 
 					height : 4 //Used to position the "Or" in the combined block.
 				},
 				stimulusMedia : [ //Stimuli content as PIP's media objects
-    		    	{word : 'Voto'}, 
-    			{word : 'Participación'}, 
-    			{word : 'Libre Expresión'}, 
-    			{word : 'Igualdad'},
-			{word : 'Tolerancia'}
+    		    	{word : 'Libertad'}, 
+    			{word : 'Representación'}, 
+    			{word : 'Elecciones'}, 
+    			{word : 'Debate'},
+				{word : 'Voto'},	
+			{word : 'Pluralismo'}
 			],
 				//Stimulus css (style)
 				stimulusCss : {color:'#336600','font-size':'2.3em'}
@@ -57,11 +58,12 @@ define(['pipAPI','pipScorer','underscore'], function(APIConstructor, Scorer, _) 
 					height : 4 //Used to position the "Or" in the combined block.
 				},
 				stimulusMedia : [ //Stimuli content as PIP's media objects
-    		    	{word : 'Dominación'}, 
-    			{word : 'Militarismo'}, 
-    			{word : 'Silenciar'}, 
-    			{word : 'Jerarquía'}, 
-    			{word : 'Represión'}			
+    		    	{word : 'Jerarquía'}, 
+    			{word : 'Control'}, 
+    			{word : 'Mando'}, 
+    			{word : 'Centralismo'}, 
+				{word : 'Decreto'}, 
+    			{word : 'Disciplina'}			
 			],
 				//Stimulus css
 				stimulusCss : {color:'#336600','font-size':'2.3em'}
@@ -75,14 +77,14 @@ define(['pipAPI','pipScorer','underscore'], function(APIConstructor, Scorer, _) 
 					height : 4 //Used to position the "Or" in the combined block.
 				},
 				stimulusMedia : [ //Stimuli content as PIP's media objects
-					{word: 'Enemiga'},
-					{word: 'Tristeza'},
-					{word: 'Terrible'},
+					{word: 'Enfermedad'},
 					{word: 'Dolor'},
-					{word: 'Repulsivo'},
 					{word: 'Odio'},
+					{word: 'Tristeza'},
 					{word: 'Pérdida'},
-					{word: 'Enfermo'}
+					{word: 'Repulsión'},
+					{word: 'Terrible'},
+					{word: 'Enemistad'}
 				],
 				//Stimulus css
 				stimulusCss : {color:'#0000FF','font-size':'2.3em'}
@@ -96,14 +98,14 @@ define(['pipAPI','pipScorer','underscore'], function(APIConstructor, Scorer, _) 
 					height : 4 //Used to position the "Or" in the combined block.
 				},
 				stimulusMedia : [ //Stimuli content as PIP's media objects
-					{word: 'Amiga'},
-					{word: 'Felicidad'},
-					{word: 'Excelente'},
+					{word: 'Salud'},
 					{word: 'Placer'},
-					{word: 'Atractivo'},
 					{word: 'Amor'},
+					{word: 'Felicidad'},
+					{word: 'Atractivo'},
 					{word: 'Ganancia'},
-					{word: 'Sano'}
+					{word: 'Excelente'},
+					{word: 'Amistad'}
 				],
 				//Stimulus css
 				stimulusCss : {color:'#0000FF','font-size':'2.3em'}
