@@ -1,4 +1,4 @@
-define(['pipAPI', 'https://github.com/betodata/robertoglz.github.io/edit/patch-1/template_main.js'], function(APIConstructor, iatExtension){
+define(['pipAPI', 'https://robertoglz.github.io/template_main.js'], function(APIConstructor, iatExtension){
     var API = new APIConstructor();
 
 	return iatExtension({
