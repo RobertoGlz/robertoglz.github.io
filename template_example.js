@@ -10,11 +10,12 @@ define(['pipAPI', 'https://robertoglz.github.io/template_main.js'], function(API
 				height : 4 //Used to position the "Or" in the combined block.
 			}, 
 			stimulusMedia : [ //Stimuli content as PIP's media objects
-    			{word : 'Voto'}, 
-    			{word : 'Participación'}, 
-    			{word : 'Libre Expresión'}, 
-    			{word : 'Igualdad'},
-			{word : 'Tolerancia'}
+    			{word : 'Libertad'}, 
+    			{word : 'Representación'}, 
+    			{word : 'Elecciones'}, 
+    			{word : 'Debate'},
+				{word : 'Voto'},
+			{word : 'Pluralismo'}
 			], 
 			//Stimulus css (style)
 			stimulusCss : {color:'#31940F','font-size':'1.8em'}
@@ -27,11 +28,12 @@ define(['pipAPI', 'https://robertoglz.github.io/template_main.js'], function(API
 				height : 4 //Used to position the "Or" in the combined block.
 			}, 
 			stimulusMedia : [ //Stimuli content as PIP's media objects
-    		    	{word : 'Dominación'}, 
-    			{word : 'Militarismo'}, 
-    			{word : 'Silenciar'}, 
-    			{word : 'Jerarquía'}, 
-    			{word : 'Represión'}				], 
+    		    	{word : 'Jerarquía'}, 
+    			{word : 'Control'}, 
+    			{word : 'Mando'}, 
+    			{word : 'Centralismo'}, 
+				{word : 'Decreto'}, 
+    			{word : 'Disciplina'}				], 
 			//Stimulus css
 			stimulusCss : {color:'#31940F','font-size':'1.8em'}
 		},	
