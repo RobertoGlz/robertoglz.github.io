@@ -12,7 +12,7 @@ author_profile: true
 ## Work in Progress
 <!--3.-   &nbsp; (2025) <span style ="color: #8C1515">Bad Outcomes with Good Mechanisms</span><br /> &nbsp; &nbsp; &nbsp; &nbsp; with Cem Kozano&#287;lu-->
 
-3.-   &nbsp; (2026) <span style ="color: #8C1515">Affetive Polarization as a Strategy</span><br />
+3.-   &nbsp; (2026) <span style ="color: #8C1515">Affective Polarization as a Strategy</span><br />
 
 2.-   &nbsp; (2026) <span style ="color: #8C1515">Religion and Culture</span><br /> &nbsp; &nbsp; &nbsp; &nbsp; with Enrique Seira and Maria Waldinger
 
