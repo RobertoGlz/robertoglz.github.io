@@ -10,7 +10,7 @@ author_profile: true
 1.-   &nbsp; (2025) <span style ="color: #0F52BA">[New]</span> <span style ="color: #8C1515"><a href="https://robertoglz.github.io/files/research/bbj_distributional_2025jul28.pdf">From Means-Tested to Universal Antipoverty Programs: Distributional Consequences and Effects on Dropout</a></span><br /> &nbsp; &nbsp; &nbsp; &nbsp; with Arturo Aguilar, Santiago Ochoa and Horacio Reyes
 
 ## Work in Progress
-<!--3.-   &nbsp; (2025) <span style ="color: #8C1515">Bad Outcomes with Good Mechanisms</span><br /> &nbsp; &nbsp; &nbsp; &nbsp; with Cem Kozano&#287;lu
+<!--3.-   &nbsp; (2025) <span style ="color: #8C1515">Bad Outcomes with Good Mechanisms</span><br /> &nbsp; &nbsp; &nbsp; &nbsp; with Cem Kozano&#287;lu-->
 
 3.-   &nbsp; (2026) <span style ="color: #8C1515">Affetive Polarization as a Strategy</span><br />
 
