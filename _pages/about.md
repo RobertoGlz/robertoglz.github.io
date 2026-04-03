@@ -10,7 +10,7 @@ redirect_from:
 
 ### Research
 
-I am interested in Development Economics, Political Economy and Applied Econometrics.<br /> My goal as a researcher is to provide insights that help end poverty.
+I am a scholar doing research in Development Economics and Political Economy.<br /> My goal as a researcher is to provide insights that help end poverty.
 
 I work as a Research Fellow at Stanford GSB.
 
@@ -26,4 +26,4 @@ I hold a BA in Economics (ITAM, 2022). You can look at my undergrad thesis explo
 
 ### Non-academic things I enjoy
 
-I like playing football (soccer) and going out for runs.<br /> I'm always down for having a good steak and I enjoy drinking _mate_ with my friends (and by myself as well!). 
+I like playing football (soccer), going out for runs, biking, bouldering, and playing tennis.<br /> I enjoy drinking mate or a good espresso. 
