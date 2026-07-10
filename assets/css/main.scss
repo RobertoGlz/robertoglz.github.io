@@ -39,3 +39,21 @@
 @import "vendor/font-awesome/brands";
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
+
+/*
+ * Research page helpers — semantic color classes so colors are
+ * defined once here instead of being inlined on every paper.
+ */
+.paper-title  { color: #8C1515; } // Stanford red — working paper / WIP titles
+.tag-new      { color: #0F52BA; } // status blue — "[New]" / submission tags
+.paper-meta   { color: #71797E; } // gray — journal outlet & abstract line
+.paper-alt    { color: #750014; } // MIT red — alternate title color
+
+.coauthor {
+  color: #40587A; // links to coauthors' websites
+
+  &:hover,
+  &:focus {
+    color: #40587A;
+  }
+}
