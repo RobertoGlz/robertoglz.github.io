@@ -32,14 +32,6 @@ redirect_from:
     var caret   = document.getElementById("typed-caret");
     if (!textEl) { return; }
 
-    /* Accessibility: if the visitor prefers reduced motion, show it spelled out. */
-    var reduce = window.matchMedia && window.matchMedia("(prefers-reduced-motion: reduce)").matches;
-    if (reduce) {
-      textEl.textContent = phrase;
-      if (caret) { caret.classList.add("rgt-done"); }
-      return;
-    }
-
     /* Type once, then stop -- no deleting, no looping. */
     var i = 0;
     (function type() {
