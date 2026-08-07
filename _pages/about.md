@@ -32,7 +32,7 @@ redirect_from:
     var caret   = document.getElementById("typed-caret");
     if (!textEl) { return; }
 
-    // Accessibility: if the visitor prefers reduced motion, just show it spelled out.
+    /* Accessibility: if the visitor prefers reduced motion, show it spelled out. */
     var reduce = window.matchMedia && window.matchMedia("(prefers-reduced-motion: reduce)").matches;
     if (reduce) {
       textEl.textContent = phrase;
@@ -40,14 +40,14 @@ redirect_from:
       return;
     }
 
-    // Type once, then stop — no deleting, no looping.
+    /* Type once, then stop -- no deleting, no looping. */
     var i = 0;
     (function type() {
       if (i < phrase.length) {
         textEl.textContent += phrase.charAt(i++);
         setTimeout(type, 90);
       } else if (caret) {
-        // Freeze the caret shortly after finishing so the header stays fixed.
+        /* Freeze the caret shortly after finishing so the header stays fixed. */
         setTimeout(function () { caret.classList.add("rgt-done"); }, 1200);
       }
     })();
