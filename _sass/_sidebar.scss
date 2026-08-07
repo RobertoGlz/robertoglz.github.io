@@ -96,17 +96,15 @@
 */
 .author__avatar {
   display: block;
-  margin: 0 auto;
-  width: 160px;        /* horizontal size */
-  height: 220px;       /* vertical size */
-  overflow: hidden;    /* crop anything outside the oval */
+  width: 188px;                 /* container width */
+  max-width: 188px;
+  margin: 0 auto 0.8em auto;    /* centered, with a little breathing room below */
 }
 
 .author__avatar img {
   width: 100%;
-  height: 100%;
-  object-fit: cover;   /* keeps proportions, fills oval */
-  border-radius: 50%;  /* makes it oval */
+  height: auto;                 /* keep the photo's natural proportions */
+  border-radius: 8px;           /* softly rounded rectangle */
 }
 
 

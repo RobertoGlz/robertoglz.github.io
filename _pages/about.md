@@ -1,12 +1,58 @@
 ---
 permalink: /
-title: "About me"
+title: ""
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+
+<h1 id="typing-heading"><span id="typed-text"></span><span id="typed-caret" aria-hidden="true"></span></h1>
+
+<style>
+  #typing-heading { min-height: 1.2em; margin-top: 0; }
+  #typed-caret {
+    display: inline-block;
+    width: 2px;
+    height: 0.85em;
+    margin-left: 3px;
+    vertical-align: text-bottom;
+    background: #40587A;
+    animation: rgt-caret-blink 0.7s steps(1) infinite;
+  }
+  #typed-caret.rgt-done { animation: none; opacity: 0; }
+  @keyframes rgt-caret-blink { 0%, 100% { opacity: 1; } 50% { opacity: 0; } }
+</style>
+
+<script>
+  (function () {
+    var phrase  = "Welcome to my website!";
+    var textEl  = document.getElementById("typed-text");
+    var caret   = document.getElementById("typed-caret");
+    if (!textEl) { return; }
+
+    // Accessibility: if the visitor prefers reduced motion, just show it spelled out.
+    var reduce = window.matchMedia && window.matchMedia("(prefers-reduced-motion: reduce)").matches;
+    if (reduce) {
+      textEl.textContent = phrase;
+      if (caret) { caret.classList.add("rgt-done"); }
+      return;
+    }
+
+    // Type once, then stop — no deleting, no looping.
+    var i = 0;
+    (function type() {
+      if (i < phrase.length) {
+        textEl.textContent += phrase.charAt(i++);
+        setTimeout(type, 90);
+      } else if (caret) {
+        // Freeze the caret shortly after finishing so the header stays fixed.
+        setTimeout(function () { caret.classList.add("rgt-done"); }, 1200);
+      }
+    })();
+  })();
+</script>
 
 ### Research
 
