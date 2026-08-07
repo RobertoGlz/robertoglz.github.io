@@ -26,24 +26,29 @@ redirect_from:
 </style>
 
 <script>
-  (function () {
-    var phrase  = "Welcome to my website!";
-    var textEl  = document.getElementById("typed-text");
-    var caret   = document.getElementById("typed-caret");
-    if (!textEl) { return; }
+  document.addEventListener("DOMContentLoaded", function () {
+    var phrase = "Welcome to my website!";
+    var textEl = document.getElementById("typed-text");
+    var caret  = document.getElementById("typed-caret");
+    if (!textEl || textEl.getAttribute("data-typed")) { return; }
+    textEl.setAttribute("data-typed", "1");
+    textEl.textContent = "";
 
-    /* Type once, then stop -- no deleting, no looping. */
+    /* Type once, then stop -- no deleting, no looping.                 */
+    /* Rebuild the substring from index 0 each tick (slice, not +=) so  */
+    /* the text can never render missing its opening characters.        */
     var i = 0;
     (function type() {
       if (i < phrase.length) {
-        textEl.textContent += phrase.charAt(i++);
+        i++;
+        textEl.textContent = phrase.slice(0, i);
         setTimeout(type, 90);
       } else if (caret) {
         /* Freeze the caret shortly after finishing so the header stays fixed. */
         setTimeout(function () { caret.classList.add("rgt-done"); }, 1200);
       }
     })();
-  })();
+  });
 </script>
 
 ### Research
